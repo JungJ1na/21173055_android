@@ -15,3 +15,8 @@
   <img width="" height="" src="./pic/5주차_실행결과(2).png"></img>
   <img width="" height="" src="./pic/스크린샷(64).png"></img>
   <img width="" height="" src="./pic/스크린샷(65).png"></img>
+  
+# 6주차 (2022-4-14)
+  <img width="" height="" src="./pic/6주차_넓이.png"></img>
+  <img width="" height="" src="./pic/6주차_높이.png"></img>
+  <img width="" height="" src="./pic/6주차_버튼.png"></img>
