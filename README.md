@@ -21,6 +21,9 @@
   <img width="" height="" src="./pic/6주차_높이.png"></img>
   <img width="" height="" src="./pic/6주차_버튼.png"></img>
   
+# 10주차 (2022-05-17)
+  <img width="" height="" src="./pic/10주차_메인.png"></img>
+  <img width="" height="" src="./pic/10주차_메뉴.png"></img>
   
 # 11주차 (2022-05-17)
   <img width="" height="" src="./pic/11주차_과제.png"></img>
